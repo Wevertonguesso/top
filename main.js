@@ -62,3 +62,8 @@ function tocasontom() {
 }
 
 document.querySelector('.tecla_tom').onclick=tocasontom;
+
+function tocasom (idelEmentoAudio){
+
+   
+}
